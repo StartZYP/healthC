@@ -1,0 +1,5 @@
+name: HealthC
+main: com.github.qq44920040.mc.HealthC
+version: 1.0
+commands:
+  healthcommand:

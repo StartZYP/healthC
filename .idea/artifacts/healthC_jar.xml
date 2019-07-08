@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="healthC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/healthC_jar</output-path>
+    <root id="root">
+      <element id="archive" name="healthC.jar">
+        <element id="module-output" name="healthC" />
+      </element>
+    </root>
+  </artifact>
+</component>
